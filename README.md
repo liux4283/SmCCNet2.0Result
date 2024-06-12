@@ -6,7 +6,16 @@ The paper introduces SmCCNet 2.0, an advanced tool for the integration of multi-
 
 This repository hosts all the essential components used and presented in the manuscript of SmCCNet 2.0. It includes:
 
-- **Subnetwork Results**: All subnetwork results discussed in the manuscript are stored here for reference and further analysis.
-- **Source Code of the Shiny Application**: The complete source code for the RShiny application used for network visualization is available, allowing users to explore and modify the visualization tool.
-- **Source Package**: The full R package for SmCCNet 2.0, which includes functions for network analysis, data preprocessing, and integration of multi-omics data.
-- **TCGA Breast Cancer Data**: The dataset used in the examples provided in the manuscript, available in CSV format, enabling users to replicate the study results or conduct their analyses.
+- **Subnetwork Results (Subnetworks folder)**: All subnetwork results (.Rdata metadata, network visualization, and more) discussed in the manuscript are stored here for reference and further analysis, all results are run based on SmCCNet 2.0.1.
+- **Source Code of the Shiny Application (ShinyApp folder)**: The complete source code for the RShiny application used for network visualization is available, allowing users to explore and modify the visualization tool.
+- **Source Package (Package folder)**: The full R package for SmCCNet 2.0.1, which includes functions for network analysis, data preprocessing, and integration of multi-omics data.
+- **TCGA Breast Cancer Data (Data folder)**: The dataset used in the examples provided in the manuscript, is available in CSV format, enabling users to replicate the study results or conduct their analyses.
+
+**Additional Resources and Contact Information**
+
+For more detailed information about the SmCCNet package, including its functionalities, installation instructions, and usage examples, please visit the following links:
+
+- [SmCCNet GitHub Repository](https://github.com/KechrisLab/SmCCNet)
+- [SmCCNet on CRAN](https://cran.r-project.org/web/packages/SmCCNet/index.html)
+
+If you have any questions regarding the tool or need further assistance, feel free to contact Dr. Katerina Kechris at [katerina.kechris@cuanschutz.edu](mailto: Dr. Katerina.Kechris.
